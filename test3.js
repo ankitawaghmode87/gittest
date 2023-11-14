@@ -1,0 +1,1 @@
+console.log("so much inteligent mentor, sirf dihane ke liye");
